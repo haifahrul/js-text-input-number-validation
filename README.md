@@ -25,3 +25,8 @@ NumberValidation(val, column);
 ```
 
 > Reference `state` https://facebook.github.io/react-native/docs/state
+
+## Author
+
+haifahrul@gmail.com <br>
+Website afsyah.com

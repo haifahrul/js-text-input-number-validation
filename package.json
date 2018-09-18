@@ -1,0 +1,29 @@
+{
+  "name": "react-text-input-number-validation",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "NumberValidation.js",
+  "dependencies": {
+    "react-text-input-number-validation": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haifahrul/react-text-input-number-validation.git"
+  },
+  "keywords": [
+    "react",
+    "react-js",
+    "react-native",
+    "javascript"
+  ],
+  "author": "haifahrul@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haifahrul/react-text-input-number-validation/issues"
+  },
+  "homepage": "https://github.com/haifahrul/react-text-input-number-validation#readme"
+}

@@ -1,6 +1,6 @@
 {
   "name": "react-text-input-number-validation",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Input Number Validation",
   "main": "NumberValidation.js",
   "dependencies": {
